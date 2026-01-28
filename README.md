@@ -1,4 +1,4 @@
-# Airline Safety Data Analysis Project
+# Airline Safety Data Analysis
 
 ## Overview
 This project analyzes aviation safety statistics for 56 major global airlines from 1985 to 2014 using Power BI. The dataset includes information on incidents, accidents, fatalities, and safety records, visualized through interactive reports and dashboards.
