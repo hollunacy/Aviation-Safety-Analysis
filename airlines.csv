@@ -1,0 +1,57 @@
+Name,IATA,ICAO,Callsign,Country
+Aer Lingus,EI,EIN,SHAMROCK,Ireland
+Aeroflot,SU,AFL,AEROFLOT,Russia
+Aerolineas Argentinas,AR,ARG,ARGENTINA,Argentina
+Aeromexico,AM,AMX,AEROMEXICO,Mexico
+Air Canada,AC,ACA,AIR CANADA,Canada
+Air France,AF,AFR,AIRFRANS,France
+Air India,AI,AIC,AIRINDIA,India
+Air New Zealand,NZ,ANZ,NEW ZEALAND,New Zealand
+Alaska Airlines,AS,ASA, ALASKA,United States of America
+Alitalia,AZ,AZA,ALITALIA,Italy
+All Nippon Airways,NH,ANA,ALL NIPPON,Japan
+American Airlines,AA,AAL,AMERICAN,United States of America
+Austrian Airlines,OS,AUA,AUSTRIAN,Austria
+Avianca,AV,AVA, AVIANCA,Colombia
+British Airways,BA,BAW,SPEEDBIRD,United Kingdom
+Cathay Pacific,CX,CPA,CATHAY,Hong Kong
+China Airlines,CI,CAL,DYNASTY,Taiwan
+Condor,DE,CFG,CONDOR,Germany
+Copa Airlines,CM,CMP,COPA,Panama
+Delta Air Lines,DL,DAL,DELTA,United States of America
+Egyptair,MS,MSR,EGYPTAIR,Egypt
+El Al,LY,ELY,ELAL,Israel
+Ethiopian Airlines,ET,ETH,ETHIOPIAN,Ethiopia
+Finnair,AY,FIN,FINNAIR,Finland
+Garuda Indonesia,GA,GIA,INDONESIA,Indonesia
+Gulf Air,GF,GFA,GULF AIR,Bahrain
+Hawaiian Airlines,HA,HAL,HAWAIIAN,United States of America
+Iberia,IB,IBE,IBERIA,Spain
+Japan Airlines,JL,JAL,JAPANAIR,Japan
+Kenya Airways,KQ,KQA,KENYA,Kenya
+KLM,KL,KLM,KLM,Netherlands
+Korean Air,KE,KAL,KOREANAIR,South Korea
+LAN Airlines,LA,LAN,LAN,Chile
+Lufthansa,LH,DLH,LUFTHANSA,Germany
+Malaysia Airlines,MH,MAS,MALAYSIAN,Malaysia
+Pakistan International Airlines,PK,PIA,PAKISTAN,Pakistan
+Philippine Airlines,PR,PAL,PHILIPPINE,Philippines
+Qantas,QF,QFA,QANTAS,Australia
+Royal Air Maroc,AT,RAM,ROYALAIR MAROC,Morocco
+Scandinavian Airlines System,SK,SAS,SCANDINAVIAN,Sweden
+Saudi Arabian Airlines,SV,SVA,SAUDIA,Saudi Arabia
+Singapore Airlines,SQ,SIA,SINGAPORE,Singapore
+South African Airways,SA,SAA,SPRINGBOK,South Africa
+Southwest Airlines,WN,SWA,SOUTHWEST,United States of America
+SriLankan Airlines,UL,ALK,SRILANKAN,Sri Lanka
+Swiss International Air Lines,LX,SWR,SWISS,Switzerland
+TACA,TA,TAI,TACA,El Salvador
+TAM,JJ,TML,TAM,Brazil
+TAP Air Portugal,TP,TAP,AIR PORTUGAL,Portugal
+Thai Airways International,TG,THA,THAI,Thailand
+Turkish Airlines,TK,THY,TURKAIR,Turkey
+United Airlines,UA,UAL,UNITED,United States of America
+US Airways,US,AWE,CACTUS,United States of America
+Vietnam Airlines,VN,HVN,VIET NAM AIRLINES,Vietnam
+Virgin Atlantic,VS,VIR,VIRGIN,United Kingdom
+Xiamen Airlines,MF,CXA,XIAMEN AIR,China
